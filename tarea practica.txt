@@ -1,6 +1,3 @@
 primera Version
 
-segunda version 0.1
-
-
-prueva 2
+segunda version 0.
